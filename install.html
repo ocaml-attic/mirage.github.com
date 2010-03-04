@@ -1,0 +1,33 @@
+<html>
+<body>
+<h1>Installation instructions for Mirage</h1>
+
+<h2>Core compiler and libraries</h2>
+<h3>MacOS X</h3>
+
+<ul>
+<li>Install git: <pre>sudo port -v install git-core</pre></li>
+<li>Install OCaml compiler and useful support libraries: <pre>sudo port -v install ocaml caml-type-conv caml-sqlite3 caml-lwt caml-ocamlnet</pre></li>
+</ul>
+
+<h3>Ubuntu</h3>
+
+Using Ubuntu:
+<ul>
+<li>Install git: <pre>apt-get install git-core</pre></li>
+<li>Install OCaml compiler and useful support libraries: <pre>camlp4-extra libsqlite3-ocaml-dev libtype-conv-camlp4-dev</pre></li>
+<li>The version of LWT in Ubuntu is too old (you need 2.0+), so install it from <a href="http://ocsigen.org/lwt/install">source</a>.
+</ul>
+
+<h2>Mirage libraries</h2>
+
+All of these are on <a href="http://github.com/mirage/">github.com/mirage</a>.
+
+<ul>
+<li><pre>git clone git@github.com:mirage/dyntype.git</pre></li>
+<li><pre>git clone git@github.com:mirage/orm.git</pre></li>
+<li><pre>git clone git@github.com:mirage/shelf.git</pre></li>
+<li><pre>git clone git@github.com:mirage/cohttp.git</pre></li>
+<li><pre>git clone git@github.com:mirage/cohttp-server.git</pre></li>
+</body>
+</html>
