@@ -98,6 +98,7 @@
 0o0644 descr/react.0.9.3
 0o0644 descr/res.3.2.0
 0o0644 descr/root1d.0.2
+0o0644 descr/safepass.1.0
 0o0644 descr/sexplib.108.00
 0o0644 descr/sexplib.108.00.02
 0o0644 descr/spotlib.1.0.0
@@ -260,6 +261,7 @@
 0o0644 opam/react.0.9.3.opam
 0o0644 opam/res.3.2.0.opam
 0o0644 opam/root1d.0.2.opam
+0o0644 opam/safepass.1.0.opam
 0o0644 opam/sexplib.108.00.02.opam
 0o0644 opam/sexplib.108.00.opam
 0o0644 opam/spotlib.1.0.0.opam
@@ -371,6 +373,7 @@
 0o0644 url/react.0.9.3
 0o0644 url/res.3.2.0
 0o0644 url/root1d.0.2
+0o0644 url/safepass.1.0
 0o0644 url/sexplib.108.00
 0o0644 url/sexplib.108.00.02
 0o0644 url/sexplib.7.0.5
