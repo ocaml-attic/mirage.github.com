@@ -26,6 +26,7 @@
 0o0644 descr/benchmark.1.1
 0o0644 descr/bin_prot.108.00.02
 0o0644 descr/biniou.0
+0o0644 descr/bitstring.2.0.3
 0o0644 descr/cairo.0.4.1
 0o0644 descr/cairo.ocaml-1.2.0
 0o0644 descr/calendar.2.03.1
@@ -37,6 +38,7 @@
 0o0644 descr/core_extended.108.00.01
 0o0644 descr/core_extended.108.00.02
 0o0644 descr/cppo.0
+0o0644 descr/cryptokit.1.6
 0o0644 descr/csv.1.2.2
 0o0644 descr/dyntype.0.8.2
 0o0644 descr/easy-format.0
@@ -180,6 +182,7 @@
 0o0644 opam/benchmark.1.1.opam
 0o0644 opam/bin_prot.108.00.02.opam
 0o0644 opam/biniou.0.opam
+0o0644 opam/bitstring.2.0.3.opam
 0o0644 opam/cairo.0.4.1.opam
 0o0644 opam/cairo.ocaml-1.2.0.opam
 0o0644 opam/calendar.2.03.1.opam
@@ -191,6 +194,7 @@
 0o0644 opam/core_extended.108.00.01.opam
 0o0644 opam/core_extended.108.00.02.opam
 0o0644 opam/cppo.0.opam
+0o0644 opam/cryptokit.1.6.opam
 0o0644 opam/csv.1.2.2.opam
 0o0644 opam/dyntype.0.8.2.opam
 0o0644 opam/easy-format.0.opam
@@ -279,6 +283,7 @@
 0o0644 url/bin_prot.108.00.01
 0o0644 url/bin_prot.108.00.02
 0o0644 url/biniou.0
+0o0644 url/bitstring.2.0.3
 0o0644 url/cairo.0.4.1
 0o0644 url/cairo.ocaml-1.2.0
 0o0644 url/calendar.2.03.1
@@ -291,6 +296,7 @@
 0o0644 url/core_extended.108.00.01
 0o0644 url/core_extended.108.00.02
 0o0644 url/cppo.0
+0o0644 url/cryptokit.1.6
 0o0644 url/csv.1.2.2
 0o0644 url/dyntype.0.8.2
 0o0644 url/easy-format.0
