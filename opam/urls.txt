@@ -45,6 +45,7 @@
 0o0644 descr/extlib.1.5.2
 0o0644 descr/fieldslib.108.00.02
 0o0644 descr/fileutils.0.4.1
+0o0644 descr/getopt.0
 0o0644 descr/gettext.0.3.4
 0o0644 descr/js_of_ocaml.1.2
 0o0644 descr/lablgtk.2.14.2
@@ -62,7 +63,6 @@
 0o0644 descr/ocaml-expect.0.0.2
 0o0644 descr/ocaml-extlib.1.5.2
 0o0644 descr/ocaml-extunix.0.0.4
-0o0644 descr/ocaml-getopt.0
 0o0644 descr/ocaml-glpk.0.1.6
 0o0644 descr/ocaml-posix-resource.0.0.1
 0o0644 descr/ocaml-radixtree.0.0.1
@@ -201,6 +201,7 @@
 0o0644 opam/extlib.1.5.2.opam
 0o0644 opam/fieldslib.108.00.02.opam
 0o0644 opam/fileutils.0.4.1.opam
+0o0644 opam/getopt.0.opam
 0o0644 opam/gettext.0.3.4.opam
 0o0644 opam/js_of_ocaml.1.2.opam
 0o0644 opam/lablgtk.2.14.2-oasis8.opam
@@ -218,7 +219,6 @@
 0o0644 opam/ocaml-expect.0.0.2.opam
 0o0644 opam/ocaml-extlib.1.5.2.opam
 0o0644 opam/ocaml-extunix.0.0.4.opam
-0o0644 opam/ocaml-getopt.0.opam
 0o0644 opam/ocaml-glpk.0.1.6.opam
 0o0644 opam/ocaml-posix-resource.0.0.1.opam
 0o0644 opam/ocaml-radixtree.0.0.1.opam
@@ -304,6 +304,7 @@
 0o0644 url/fieldslib.108.00.01
 0o0644 url/fieldslib.108.00.02
 0o0644 url/fileutils.0.4.1
+0o0644 url/getopt.0
 0o0644 url/gettext.0.3.4
 0o0644 url/js_of_ocaml.1.2
 0o0644 url/lablgtk.2.14.2
@@ -323,7 +324,6 @@
 0o0644 url/ocaml-extlib.1.5.2
 0o0644 url/ocaml-extunix.0.0.4
 0o0644 url/ocaml-fileutils.0.4.3
-0o0644 url/ocaml-getopt.0
 0o0644 url/ocaml-glpk.0.1.6
 0o0644 url/ocaml-posix-resource.0.0.1
 0o0644 url/ocaml-radixtree.0.0.1
