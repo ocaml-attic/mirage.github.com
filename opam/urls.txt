@@ -6,6 +6,7 @@
 0o0644 compilers/3.12.1+mirage-xen.comp
 0o0644 compilers/3.12.1.comp
 0o0644 compilers/4.00.0+beta2.comp
+0o0644 compilers/4.00.0+rc1.comp
 0o0644 descr/ANSITerminal.0.6
 0o0644 descr/CamlGI.0.6
 0o0644 descr/Readme.md
