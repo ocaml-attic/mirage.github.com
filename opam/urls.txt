@@ -46,6 +46,7 @@
 0o0644 descr/csv.1.2.2
 0o0644 descr/deriving-ocsigen.0
 0o0644 descr/dyntype.0.8.2
+0o0644 descr/dyntype.0.8.3
 0o0644 descr/easy-format.0
 0o0644 descr/eliom.2.2.2
 0o0644 descr/extlib.1.5.2
@@ -221,6 +222,7 @@
 0o0644 opam/csv.1.2.2.opam
 0o0644 opam/deriving-ocsigen.0.opam
 0o0644 opam/dyntype.0.8.2.opam
+0o0644 opam/dyntype.0.8.3.opam
 0o0644 opam/easy-format.0.opam
 0o0644 opam/eliom.2.2.2.opam
 0o0644 opam/extlib.1.5.2.opam
@@ -332,6 +334,7 @@
 0o0644 url/csv.1.2.2
 0o0644 url/deriving-ocsigen.0
 0o0644 url/dyntype.0.8.2
+0o0644 url/dyntype.0.8.3
 0o0644 url/easy-format.0
 0o0644 url/eliom.2.2.2
 0o0644 url/extlib.1.5.2
