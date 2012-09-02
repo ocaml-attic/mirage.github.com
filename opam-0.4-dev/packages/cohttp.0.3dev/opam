@@ -5,6 +5,6 @@ build: [
   ["make" "install"]
 ]
 remove: [
-  ["ocamlfind" "remove" "cstruct"]
+  ["ocamlfind" "remove" "cohttp"]
 ]
-depends: ["ocamlfind"]
+depends: [ "ocamlfind" "re" "uri" "ounit" ]
