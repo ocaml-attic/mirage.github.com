@@ -67,6 +67,7 @@ archives/crypt.1.0+opam.tar.gz b69ba22689affb22c84912ebc5827572 0o644
 archives/cryptgps.0.2.1+opam.tar.gz d491ed5669480d647929b480b73b0980 0o644
 archives/cryptokit.1.6+opam.tar.gz ffb91e01209e6a411b040d02222e4bdc 0o644
 archives/cstruct.0.4.0+opam.tar.gz e2ad8c2d8df5628073422dd8beeaf37a 0o644
+archives/cstruct.0.4.1+opam.tar.gz 66542d62929cbb1ed41c22179796a49b 0o644
 archives/csv.1.2.2+opam.tar.gz 3e4581afaf13f34b71e85a6b000cce2d 0o644
 archives/deriving-ocsigen.0+opam.tar.gz ba1c1df32a0d1e4e1db01b30096eaa06 0o644
 archives/dum.1.0.0+opam.tar.gz 600c2e9ee464d993006f59e6ebd9ad52 0o644
@@ -478,6 +479,9 @@ packages/cryptokit.1.6/url ef5b6b9aaf94f9466058495e59dfd79a 0o644
 packages/cstruct.0.4.0/descr 5d7716ebcd7fa4b029d0d3d0fb6f858d 0o644
 packages/cstruct.0.4.0/opam 333356919db132992ebfea1ecba50869 0o644
 packages/cstruct.0.4.0/url dcab09e014c1b8549e37b1ac21c78c01 0o644
+packages/cstruct.0.4.1/descr 5d7716ebcd7fa4b029d0d3d0fb6f858d 0o644
+packages/cstruct.0.4.1/opam 333356919db132992ebfea1ecba50869 0o644
+packages/cstruct.0.4.1/url f8f9f5b89bfe159fe6f6fa292b870e90 0o644
 packages/csv.1.2.2/descr cdb0b669ece129ab5d8daf5c827e03b2 0o644
 packages/csv.1.2.2/opam c5bc06ce32b37368e9bee91ed230dee2 0o644
 packages/csv.1.2.2/url 3de409f191b01319ba36842000d50624 0o644
