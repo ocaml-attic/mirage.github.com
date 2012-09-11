@@ -60,6 +60,7 @@ archives/coq.8.4+opam.tar.gz 820e2e80ea54408e579f0b0d6c2cf165 0o644
 archives/core.108.00.02+opam.tar.gz 018d82b15070894566c9e7e168b57220 0o644
 archives/core_extended.108.00.01+opam.tar.gz 8eba2627a6f57682fbe927ed5e8c13e7 0o644
 archives/core_extended.108.00.02+opam.tar.gz 829c6440dddb3220c3e4afd1439d59ce 0o644
+archives/cow-0.3.2+opam.tar.gz 0da2da8c5b311f3c3022636d9c48bf9a 0o644
 archives/cow.0.3.0+opam.tar.gz f6d88b0fecf985d1ee0ea458bc3c6016 0o644
 archives/cow.0.3.1+opam.tar.gz 8338a8ed48b564fa6dd58dcce0e72314 0o644
 archives/cppo.0+opam.tar.gz 4b0f13e8e5cf38ba095d42a23b9d15e2 0o644
@@ -457,6 +458,9 @@ packages/core_extended.108.00.01/url b58b1f4fa25f2fd3fc7a1e43ca62e333 0o644
 packages/core_extended.108.00.02/descr 956405ce67291732513613f246183a9b 0o644
 packages/core_extended.108.00.02/opam 3ead60a4b6f62e4919e3648144118beb 0o644
 packages/core_extended.108.00.02/url 9841abfaf808168d02cf1aca48b6a48c 0o644
+packages/cow-0.3.2/descr c739f5220d35fc32e8447fff9efa4426 0o644
+packages/cow-0.3.2/opam af62ebd21aba1da6be53db31afd03eab 0o644
+packages/cow-0.3.2/url d8dc78171de2f48e9605065e4a20484c 0o644
 packages/cow.0.3.0/descr c739f5220d35fc32e8447fff9efa4426 0o644
 packages/cow.0.3.0/opam af62ebd21aba1da6be53db31afd03eab 0o644
 packages/cow.0.3.0/url 4c0b0571e4fd92c8b0e791be359d6c2a 0o644
