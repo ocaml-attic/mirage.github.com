@@ -113,6 +113,7 @@ archives/mancoosi-dose.2.9.15+opam.tar.gz 215175d22aa39c776f08f0956a957a37 0o644
 archives/melt.1.4.0+opam.tar.gz abb00190a768b56b693cb0273b91a69f 0o644
 archives/menhir.20120123+opam.tar.gz eea0b89b07ef0fc43a2f385a5afb3f10 0o644
 archives/mikmatch.1.0.5+opam.tar.gz 59efa981aec183028a78868f0bf8a732 0o644
+archives/mirage-fs.0.3.0+opam.tar.gz 1a3d94e2b876e7e00b0b03f793825c34 0o644
 archives/mirage-net.0.3.0+opam.tar.gz 1ca695163ab3ae59d59b68c24ec9aba2 0o644
 archives/mirage.0.4.0+opam.tar.gz 7f53a918d95d9b73a768eb6b45b43864 0o644
 archives/missinglib.0.4.1+opam.tar.gz 618cd7c7f8fbb976103a96469ad93721 0o644
@@ -660,6 +661,9 @@ packages/menhir.20120123/url e751d84fee925a5416472af5a2d82244 0o644
 packages/mikmatch.1.0.5/descr 3649a497235e98852cb535e40cfa63f1 0o644
 packages/mikmatch.1.0.5/opam 1b6dafc0051495f0f841d2652f954694 0o644
 packages/mikmatch.1.0.5/url 9803ef02fc22950784511012cab13fbb 0o644
+packages/mirage-fs.0.3.0/descr 4635fbfeb5a01098ccb640c500dd75fe 0o644
+packages/mirage-fs.0.3.0/opam 0cb00c8da4736ab332c744397d4bffc0 0o644
+packages/mirage-fs.0.3.0/url 6ed800c1901e78e8dc0a9b0cda685d02 0o644
 packages/mirage-net.0.3.0/descr d95c5ca7e9956f147eb2ce40899ee541 0o644
 packages/mirage-net.0.3.0/opam 0b261c23b0b78e09bf0f44a5cfb61217 0o644
 packages/mirage-net.0.3.0/url f6bf8b7012d764028c804fc8f84119a1 0o644
