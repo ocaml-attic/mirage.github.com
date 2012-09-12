@@ -51,6 +51,7 @@ archives/cduce_ws.0.1+opam.tar.gz d1f99a3e56c6b6f5fed2cc78f3366019 0o644
 archives/cfg.2.0.1+opam.tar.gz 8e276dca9193346f58e99f1c892c9c86 0o644
 archives/cil.1.5.1+opam.tar.gz 5a7c129f47a7e84750f598ea4c2997c8 0o644
 archives/cmigrep.1.5+opam.tar.gz cc3923b3bb1ddd278a6648db260868d6 0o644
+archives/cohttp.0.9.1+opam.tar.gz 64942effcaf0a31f4a4851cfd9e6e1fa 0o644
 archives/comparelib.108.00.02+opam.tar.gz 0b3f7aab623f246f5f6389c283a69cb5 0o644
 archives/compiler-libs.3.12.1+opam.tar.gz 787ed8270e5362469e085f7b139cf51d 0o644
 archives/compiler-libs.base+opam.tar.gz 87db2d4a015a60e0eb42697d11dc00e5 0o644
@@ -88,6 +89,7 @@ archives/frama-c.Nitrogen-20111001+opam.tar.gz 908aa53a543bf541fadb7a5c7850bf68 
 archives/frontc.3.4+opam.tar.gz a1d10b83abee837b053197b79c2b149a 0o644
 archives/getopt.20120615+opam.tar.gz f9b5c108b468d4cf8a62f7e75718986f 0o644
 archives/gettext.0.3.4+opam.tar.gz e3823a2ed653d7b37f8c2868f8c3c7a5 0o644
+archives/github.0.3.0+opam.tar.gz 77a951feebe97f182f4de33d713f2529 0o644
 archives/headache.1.03+opam.tar.gz 13311b5b47aefc067a54b38bf782fe6d 0o644
 archives/hevea.2.00+opam.tar.gz 9a76a43aeb4f11bb647a21b2dd194f92 0o644
 archives/hweak.1.1+opam.tar.gz 5ba41eafa5b45f4d0f0bc9b376e1faf3 0o644
@@ -436,6 +438,9 @@ packages/cmigrep.1.5/files/cmigrep.install 2ca58ae806fd3e123ea8adcf9a6bd67d 0o64
 packages/cmigrep.1.5/files/opam.ml 8f77c5189a439098202d77c9769773f7 0o644
 packages/cmigrep.1.5/opam 2add418567fb3680701e2b6263e89d3d 0o644
 packages/cmigrep.1.5/url a17cd773c8a134221b32f2e517d66725 0o644
+packages/cohttp.0.9.1/descr 08c2aadfe061aabed2c23043e4af2b69 0o644
+packages/cohttp.0.9.1/opam 58227b69873d5c64a7c1582cfeb33697 0o644
+packages/cohttp.0.9.1/url 0b9624f306af1c29f067a54b70bab24e 0o644
 packages/comparelib.108.00.02/descr 9a00ca4d5b60aad56c13f97db013b6ef 0o644
 packages/comparelib.108.00.02/opam 4363e3dc8c0de94744d3a1eb69b45628 0o644
 packages/comparelib.108.00.02/url f0a5f3da021b7ede513c50786ca76176 0o644
@@ -565,6 +570,11 @@ packages/gettext.0.3.4/descr 3aa1bfd72f1e5002bdf801f77bb62f69 0o644
 packages/gettext.0.3.4/files/gettext.install 9b5344a744bedc3ba87a7e662660661c 0o644
 packages/gettext.0.3.4/opam 06683478cc433ee8282abc9ca6147f74 0o644
 packages/gettext.0.3.4/url 130bee64e8bac82cac32e97abe7732e0 0o644
+packages/github.0.3.0/descr 66b229d3840b1b0c1635855688d363f9 0o644
+packages/github.0.3.0/files/re.config.in eb83e8d8f4ccb389137ce9538799eb51 0o644
+packages/github.0.3.0/files/re.install 85b4db136ec06c211b12c3879ff8e8af 0o644
+packages/github.0.3.0/opam b03de8be7d28f9695ea476922dfb2cb3 0o644
+packages/github.0.3.0/url 4e7e09d8ca91800c3701711981f68385 0o644
 packages/headache.1.03/descr 27fe0132192bb587f944ce769ccea30c 0o644
 packages/headache.1.03/files/headache.install 6be7c0f37bc05a697ac3385cb66c7ab2 0o644
 packages/headache.1.03/opam 55d36ea905cf100ef5f9f16c06f64949 0o644
