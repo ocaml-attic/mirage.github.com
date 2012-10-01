@@ -1,0 +1,17 @@
+opam-version: "1"
+name: "4.00.0+ocamlnat"
+src: "https://github.com/bmeurer/ocaml/tarball/trunk"
+build: [
+  ["mkdir" "-p" "compilerlibs"]
+  ["./configure" "-prefix" "%{prefix}%"] 
+  ["make" "world"] 
+  ["make" "world.opt"]
+  ["make" "ocamlnat"]
+  ["make" "install"] 
+  ["cp" "ocamlnat" "%{bin}%/ocamlnat"]
+]
+patches : [ "/Users/avsm/Desktop/ocamlnat-trunk.diff" ]
+packages : [ "base-unix" "base-bigarray" "base-threads" ]
+env: [
+  [ CAML_LD_LIBRARY_PATH += "%{lib}%/stublibs" ]
+]
